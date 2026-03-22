@@ -1,6 +1,7 @@
 import Layout from "@/components/Layout";
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import profile from "../../public/images/profile/coder.png";
 import Skills from "@/components/Skills";
 import Experience from "@/components/Experience";
@@ -79,14 +80,14 @@ export default function About() {
                   Get in Touch
                 </a>
                 
-                <a
+                <Link
                   href="/projects"
                   className="group flex items-center gap-2 px-4 py-2 border-2 border-dark dark:border-light
                   text-dark dark:text-light rounded-lg font-medium transition-all hover:bg-dark
                   hover:text-light dark:hover:bg-light dark:hover:text-dark"
                 >
                   View Projects <LinkArrow className="ml-1 !w-6 md:!w-4" />
-                </a>
+                </Link>
               </div>
             </div>
 
