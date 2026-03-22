@@ -1,6 +1,6 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
-import ChatWidget from "@/components/ChatWidget";
+// import ChatWidget from "@/components/ChatWidget";
 import "@/styles/globals.css";
 import { AnimatePresence } from "framer-motion";
 // pages/_app.js
@@ -35,7 +35,7 @@ export default function App({ Component, pageProps }) {
         </AnimatePresence>
         <Analytics />
         {/* <Footer /> */}
-        <ChatWidget />
+        {/* <ChatWidget /> */}
       </main>
     </>
   );
