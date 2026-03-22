@@ -43,15 +43,15 @@ const Skills = () => {
     },
     {
       title: "Design & Content Creation",
-      skills: ["Canva (Advanced)", "KDP Coloring Books", "Digital Product Creation", "Visual Content Strategy", "Brand Design"],
+      skills: ["Canva (Advanced)", "KDP Coloring Books", "Digital Product Creation", "Visual Content Strategy"],
     },
     {
       title: "Email Marketing & Automation",
-      skills: ["Email Automation Systems", "Lead Nurturing Sequences", "Conversion Funnels", "Digital Product Sales Flows", "AI-Powered Automation"],
+      skills: ["Email Automation", "AI-Powered Automation"],
     },
     {
       title: "AI & Smart Automation",
-      skills: ["Shortly AI", "AI Content Generation", "Workflow Automation", "Scaling Systems", "Efficiency Optimisation"],
+      skills: [ "AI Content Generation", "Workflow Automation"],
     },
     {
       title: "Social Media Management",
