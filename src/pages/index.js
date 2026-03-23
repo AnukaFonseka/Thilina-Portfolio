@@ -7,7 +7,7 @@ import Image from "next/image";
 import Link from "next/link";
 import lightBulb from "../../public/images/svgs/miscellaneous_icons_1.svg";
 // import profilePic from "../../public/images/profile/ps2.png";
-import profilePic from "../../public/images/profile/thilina/2.jpeg";
+import profilePic from "../../public/images/profile/thilina/4.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 
